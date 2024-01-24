@@ -12,10 +12,10 @@
 ### 1.面具刷入Magisk Overlayfs模块
 ![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png)
 
-### 2.下载 GMS 和 HMS
+### 2.下载 GMS 和 HMS (可能需要加速)
 
-- GMS: [下载链接]() Weeb GApps 4.1.8
-- HMS: [下载链接]() HMS Core 6.10
+- GMS: [Github链接](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/GMS/Weeb_GApps_Arm64_11_4.1.8.zip) [镜像链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/boxhz/install_GMS_and_HMS_on_TYH212U/master/GMS/Weeb_GApps_Arm64_11_4.1.8.zip) Weeb GApps 4.1.8
+- HMS: [Github链接](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/HMS/HMS_Core.zip) [镜像链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/boxhz/install_GMS_and_HMS_on_TYH212U/master/HMS/HMS_Core.zip)HMS Core 6.10
 
 ### 3.解压压缩包，将文件复制到/system/product/下对应的目录
 
