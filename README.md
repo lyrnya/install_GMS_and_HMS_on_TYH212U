@@ -9,7 +9,8 @@
 
 # 安装教程
 
-### 1.面具刷入Magisk Overlayfs模块
+### 1.面具刷入Magic Overlayfs模块
+[下载链接](https://github.com/HuskyDG/magic_overlayfs/releases/download/v3.2.2/magisk-overlayfs-release.zip)
 ![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png)
 
 ### 2.下载 GMS 和 HMS (可能需要加速)
