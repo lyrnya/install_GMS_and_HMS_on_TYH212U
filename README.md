@@ -4,7 +4,7 @@
 - 此方法能够在狐狸面具SuList白名单下正常运行，shamiko白名单估计也可以
 - 模块无法在白名单下正常工作
   - 官方面具 26400 开启 shamiko 白名单，GMS 和 HMS 无法正常运行
-  - 狐狸面具 26400 开启 SuList 白名单,GMS 和 HMS 无法正常运行
+  - 狐狸面具 26400 开启 SuList 白名单，GMS 和 HMS 无法正常运行
 - 尝试手动安装 HMSCore.apk 后 HMS 正常运行(依旧还是系统应用)，理论上手动安装 GMS 的这几个 apk 也能解决问题，但是在安装 GoogleServicesFramework.apk 时提示安装包无效无法安装
 
 # 安装教程
