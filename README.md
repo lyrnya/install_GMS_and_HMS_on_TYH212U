@@ -1,13 +1,13 @@
 # 在天翼1号2022上安装GMS和HMS(非面具模块)
 
-## 疑问：为什么不使用面具刷入 GMS 和 HMS 模块？
+# 为什么不使用面具刷入 GMS 和 HMS 模块？
 
 - 官方面具 26400 开启 shamiko 白名单，GMS 和 HMS 无法正常运行
 - 狐狸面具 26400 开启 SuList 白名单,GMS 和 HMS 无法正常运行
 
 - 尝试手动安装 HMSCore.apk 后 HMS 正常运行(依旧还是系统应用)，理论上手动安装 GMS 的这几个 apk 也能解决问题，但是在安装 GoogleServicesFramework.apk 时提示安装包无效无法安装
 
-## 安装教程
+# 安装教程
 
 ### 1.面具刷入Magisk Overlayfs模块
 ![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png)
