@@ -10,7 +10,7 @@
 # 安装教程
 
 ### 1.面具刷入Magisk Overlayfs模块
-![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png){:height="50%" width="50%"}
+![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png =600x600)
 
 ### 2.下载 GMS 和 HMS (可能需要加速)
 
@@ -23,14 +23,14 @@
 - 将压缩包etc文件夹里的文件复制到/system/product/etc/目录下
 - 将压缩包priv-app文件夹里的文件复制到/system/product/priv-app/目录下
 
-![将文件复制到对应的目录](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/product.png){:height="50%" width="50%"}
+![将文件复制到对应的目录](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/product.png =600x600)
 
 ### 4.设置新增文件夹及文件权限
 
 - 文件夹设置755权限 所有者和用户组改为root
-![设置文件夹权限](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/755.png){:height="50%" width="50%"}
+![设置文件夹权限](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/755.png =600x600)
 - 文件设置644权限 所有者和用户组改为root
-![设置文件权限](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/644.png){:height="50%" width="50%"}
+![设置文件权限](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/644.png =600x600)
 
 ### 5.重启
 - 重启后在设置-辅助功能打开谷歌基础服务然后即可在设置-账号和同步里面看到Google账号和华为账号
