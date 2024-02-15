@@ -13,15 +13,16 @@
 - Overlayfs：[下载链接](https://github.com/HuskyDG/magic_overlayfs/releases/download/v3.2.2/magisk-overlayfs-release.zip)
 ![刷入模块然后重启](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/magiskoverlayfs.png)
 
-### 2.下载 GMS 和 HMS (可能需要加速)
+### 2.下载 GMS 和 HMS
 
-- GMS: [Github链接](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/raw/master/GMS/Weeb_GApps_Arm64_11_4.1.8.zip) []() Weeb GApps 4.1.8
-- HMS: [Github链接](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/raw/master/HMS/HMS_Core.zip) []() HMS Core 6.10
+- GMS: [下载链接](https://mirror.ghproxy.com/https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/releases/download/V1/GMS.zip) []() Weeb GApps 4.1.8
+- HMS: [下载链接](https://mirror.ghproxy.com/https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/releases/download/V1/HMS.zip) []() HMS Core 6.10
 
 ### 3.解压压缩包，将文件复制到/system/product/下对应的目录
 
 - 将压缩包app文件夹里的文件复制到/system/product/app/目录下
 - 将压缩包etc文件夹里的文件复制到/system/product/etc/目录下
+- 将压缩包framework文件夹里的文件复制到/system/product/framework/目录下
 - 将压缩包priv-app文件夹里的文件复制到/system/product/priv-app/目录下
 
 ![将文件复制到对应的目录](https://github.com/boxhz/install_GMS_and_HMS_on_TYH212U/blob/master/Picture/product.png)
